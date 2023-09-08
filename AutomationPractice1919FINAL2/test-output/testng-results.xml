@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-08T20:41:28 IST" name="Suite" finished-at="2023-09-08T20:41:57 IST" duration-ms="29367">
+    <groups>
+    </groups>
+    <test started-at="2023-09-08T20:41:28 IST" name="Test" finished-at="2023-09-08T20:41:57 IST" duration-ms="29367">
+      <class name="com.saucedemo.TestPack.TC1_VerfiyLoginFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.TestPack.TC1_VerfiyLoginFunctionality@7b36aa0c]" started-at="2023-09-08T20:41:28 IST" name="setUp" finished-at="2023-09-08T20:41:36 IST" duration-ms="8132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginFunctionality()[pri:0, instance:com.saucedemo.TestPack.TC1_VerfiyLoginFunctionality@7b36aa0c]" started-at="2023-09-08T20:41:36 IST" name="verifyLoginFunctionality" finished-at="2023-09-08T20:41:36 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC1_VerfiyLoginFunctionality@7b36aa0c]" started-at="2023-09-08T20:41:36 IST" name="tearDown" finished-at="2023-09-08T20:41:37 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC1_VerfiyLoginFunctionality -->
+      <class name="com.saucedemo.TestPack.TC4_VerfiyAllProductsAddToCartFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.TestPack.TC4_VerfiyAllProductsAddToCartFunctionality@2af004b]" started-at="2023-09-08T20:41:50 IST" name="setUp" finished-at="2023-09-08T20:41:57 IST" duration-ms="6036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAllProductProductAddToCartFunctionality()[pri:0, instance:com.saucedemo.TestPack.TC4_VerfiyAllProductsAddToCartFunctionality@2af004b]" started-at="2023-09-08T20:41:57 IST" name="verifyAllProductProductAddToCartFunctionality" finished-at="2023-09-08T20:41:57 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllProductProductAddToCartFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC4_VerfiyAllProductsAddToCartFunctionality@2af004b]" started-at="2023-09-08T20:41:57 IST" name="tearDown" finished-at="2023-09-08T20:41:57 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC4_VerfiyAllProductsAddToCartFunctionality -->
+      <class name="com.saucedemo.TestPack.TC3_VerifyBagProductAddToCartFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.TestPack.TC3_VerifyBagProductAddToCartFunctionality@27406a17]" started-at="2023-09-08T20:41:44 IST" name="setUp" finished-at="2023-09-08T20:41:50 IST" duration-ms="6281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBagProductAddToCartFunctionality()[pri:0, instance:com.saucedemo.TestPack.TC3_VerifyBagProductAddToCartFunctionality@27406a17]" started-at="2023-09-08T20:41:50 IST" name="verifyBagProductAddToCartFunctionality" finished-at="2023-09-08T20:41:50 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBagProductAddToCartFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC3_VerifyBagProductAddToCartFunctionality@27406a17]" started-at="2023-09-08T20:41:50 IST" name="tearDown" finished-at="2023-09-08T20:41:50 IST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC3_VerifyBagProductAddToCartFunctionality -->
+      <class name="com.saucedemo.TestPack.TC2_VerifyLogOutFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucedemo.TestPack.TC2_VerifyLogOutFunctionality@76b1e9b8]" started-at="2023-09-08T20:41:37 IST" name="setUp" finished-at="2023-09-08T20:41:43 IST" duration-ms="5717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogOutFunctionality()[pri:0, instance:com.saucedemo.TestPack.TC2_VerifyLogOutFunctionality@76b1e9b8]" started-at="2023-09-08T20:41:43 IST" name="verifyLogOutFunctionality" finished-at="2023-09-08T20:41:43 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogOutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.TestPack.TC2_VerifyLogOutFunctionality@76b1e9b8]" started-at="2023-09-08T20:41:43 IST" name="tearDown" finished-at="2023-09-08T20:41:44 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.TestPack.TC2_VerifyLogOutFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
